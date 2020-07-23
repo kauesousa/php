@@ -1,1 +1,5 @@
-"index" 
+<?php
+
+  echo "Olá mundo!";
+
+?>
